@@ -11,4 +11,4 @@ prefix = $
 $hiragana + arg = transiletrate to hiragana. (arg = whatever in latin)  
 $hquiz = start a hen-, I mean hiragana quiz  
 $natofy + arg = convert to NATO Phonetic  
-profile + @discordusername = check prfile pic of someone (optional:add enhance)  
+$profile + @discordusername = check prfile pic of someone (optional:add enhance)  
