@@ -343,5 +343,5 @@ client.on('message', message =>{//main code
 
 	}
 })
-client.login('NzA4MTM2ODU0Mzk4MDQyMTIy.XrS91g.Ijx0_DetpplwrQyAf-he0vgoA3g');//unique token for logging in bot 
+client.login();//unique token for logging in bot 
 
