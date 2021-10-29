@@ -7,8 +7,8 @@ A simple discord bot with simple features. One of my first scripts written in js
 ### Transliterate words written in latin alphabet to Hiragana and NATO Phonetic Alphabet 
 ### Getting a user's profile picture that you want and enlarge it
 ## Discord Commands and How to Use
-prefix=$
-hiragana= transiletrate to hiragana. (arg=whatever)
-hquiz=start a hen-, I mean hiragana quiz
-natofy=convert to NATO Phonetic
-profile=check prfile pic of someone (optional:enhance)
+prefix=$  
+hiragana= transiletrate to hiragana. (arg=whatever)  
+hquiz=start a hen-, I mean hiragana quiz  
+natofy=convert to NATO Phonetic  
+profile=check prfile pic of someone (optional:enhance)  
